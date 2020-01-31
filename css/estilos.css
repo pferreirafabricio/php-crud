@@ -1,0 +1,84 @@
+body
+{
+	margin: auto;
+	padding: 0px;
+	font-family: Calibri;
+	font-size: 12px;
+	width: 1000px;
+}
+
+.clsTitulo
+{
+	background-color: #e6e6e6;
+	font-size: 50px;
+	color: #0000aa;
+}
+
+.clsEsquerda
+{
+	text-align: left;
+}
+
+.clsDireita
+{
+	text-align: right;
+}
+
+.clsCentro
+{
+	text-align: center;
+}
+
+.clsMeio
+{
+	vertical-align: middle;
+}
+
+.clsNegrito
+{
+	font-weight: bold;
+}
+
+.clsMenu
+{
+	background-color: #ccc;
+	color: #f00;
+	
+}
+
+.clsMenu:hover
+{
+	background-color: #f00;
+	color: #fff;
+	
+}
+
+.clsRodape
+{
+	background-color: #00a;
+	font-size: 10px;
+	color: #fff;
+}
+
+.clsFundoTabela
+{
+	background-color: e6e6e6;
+}
+
+a
+{
+	text-decoration: none;
+	color: #f00;
+}
+
+a:hover
+{
+	text-decoration: none;
+	color: #fff;
+}
+
+.clsMsgerro
+{
+	color: #f00;
+	
+}
